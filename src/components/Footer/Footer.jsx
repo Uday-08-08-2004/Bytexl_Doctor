@@ -18,7 +18,7 @@ const Footer = () => {
               src={logo}
               alt="logo" 
             />
-            <p className='text-[16px] leading-7 font-[400] text-textColor mt-4'>Copyright @ {year} developed by Bhargava Teja All Rigts Are Reserved</p>
+            <p className='text-[16px] leading-7 font-[400] text-textColor mt-4'>Copyright @ {year} developed by Udaya Teja All Rigts Are Reserved</p>
 
             <div className='flex items-center gap-3 mt-4'>
             {socialLinks.map((link,index) => (

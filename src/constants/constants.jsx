@@ -40,7 +40,7 @@ export const socialLinks = [
         icon : <AiFillYoutube className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: 'https://github.com/BhargavaTejaN?tab=repositories',
+        path: 'https://github.com/Uday-08-08-2004',
         icon : <AiFillGithub className="group-hover:text-white w-4 h-5" />,
     },
     {
@@ -48,7 +48,7 @@ export const socialLinks = [
         icon : <AiOutlineInstagram className="group-hover:text-white w-4 h-5" />,
     },
     {
-        path: 'https://www.linkedin.com/in/bhargava-teja-narasani-753615217/',
+        path: 'https://www.linkedin.com/in/udaya-teja-narasani-49b14426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         icon : <RiLinkedinFill className="group-hover:text-white w-4 h-5" />,
     },
 ];
